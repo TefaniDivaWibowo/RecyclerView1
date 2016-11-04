@@ -6,7 +6,7 @@ Tampilan RecyclerView List
 
 Tampilan RecyclerView List Round Image
 
-![Screenshot RecycleView1 Grid](https://github.com/TefaniDivaWibowo/RecyclerView1/blob/master/XIIRPL1%2337%23RecyclerView%23RecycleView1_2.png)
+![Screenshot RecycleView1 Grid]()
 
 #Identitas
 
